@@ -1,0 +1,6 @@
+S-> aA | dE
+A-> aB | aS
+B-> bC
+C-> bD | dB
+D-> cD |e| l
+E-> d
